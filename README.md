@@ -13,8 +13,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <br>
-<img src="https://img.shields.io/
-badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
@@ -23,6 +22,13 @@ badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 <br>
 
 
+<h3 align="center">📌 Social Link 📌</h3>
+<div align="center">
+  
+<a href="https://velog.io/@_koiil"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@_koiil"/></a>
+ <a href="mailto:rachel3486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameclow2@gmail.com"/></a>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_koiil)](https://github.com/rachel5004/velog-readme-stats)
 
 
 
@@ -31,7 +37,9 @@ badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 
 ![Koiil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel5004&layout=compact&theme=dracula)
 
-
+  
+  
+  </div>
 <!--
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Daang)](https://solved.ac/Daang)
 
