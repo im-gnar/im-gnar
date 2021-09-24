@@ -36,7 +36,7 @@
 <div align="center">
   
 <a href="https://velog.io/@_koiil"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@_koiil"/></a>
- <a href="mailto:rachel3486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gameclow2@gmail.com"/></a>
+ <a href="mailto:rachel3486@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachel3486@gmail.com"/></a>
   <a href="https://www.notion.so/44463a536bec4dc5b8ef685060c4a689"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/44463a536bec4dc5b8ef685060c4a689"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_koiil)](https://velog.io/@_koiil/Java-Collection)
