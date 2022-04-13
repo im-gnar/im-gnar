@@ -42,7 +42,7 @@
 <br>
   
 
-[![Koiil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rachel5004&theme=react-dark)](https://github.com/rachel5004)
+<!-- [![Koiil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rachel5004&theme=react-dark)](https://github.com/rachel5004) -->
   
 </div>  
 <div align="center">  
