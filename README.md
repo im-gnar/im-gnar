@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&text=Koiil&height=300&animation=twinkling)
 
-<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"></h2>
+<h2 align="center"> <img width="10px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"> Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp;
