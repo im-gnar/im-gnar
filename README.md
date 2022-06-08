@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&text=Koiil&height=300&animation=twinkling)
 
-<h2 align="center"> <img width="10px" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"> Tech Stack <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"></h2>
+<h2 align="center"> 🔥 Tech Stack 🔥</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp;
@@ -24,7 +24,7 @@
 
 
 
-<h2 align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"> Social Link <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px"></h2>
+<h2 align="center"> 🙌 Social Link 🙌 </h2>
 <div align="center">
   
 <a href="https://velog.io/@_koiil"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@_koiil"/></a>
@@ -38,7 +38,7 @@
   
 
 
-<h2 align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h2>
+<h2 align="center"> 🏆 Git Activeness 🏆 </h2>
 <br>
   
 
