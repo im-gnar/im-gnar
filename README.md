@@ -33,10 +33,8 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/44463a536bec4dc5b8ef685060c4a689"/></a>
   
 <br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_koiil)](https://velog.io/@_koiil/Java-Collection)
   
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=_koiil)](https://velog-readme-stats.vercel.app/api/redirect?name=_koiil)
 
 <h2 align="center"> 🏆 Git Activeness 🏆 </h2>
 <br>
