@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hi:\)%20I'm%20Koiil%20🌷&fontAlignY=45&desc=%20Backend%20engineer%20who%20loves%20technology%20sharing%20and%20continuous%20growth&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hi:\)%20I'm%20Gnar%20🌷&fontAlignY=45&desc=%20Backend%20engineer%20who%20loves%20technology%20sharing%20and%20continuous%20growth&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
 
 
 <h2 align="center"> 🔥 Tech Stack 🔥</h2>
