@@ -44,7 +44,7 @@
 </div>  
 <div align="center">  
   
-| ![Koiil's github stats](https://github-readme-stats.vercel.app/api?username=rachel5004&show_icons=true&theme=dracula) | ![Koiil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rachel5004&layout=compact&theme=dracula) |
+| ![Gnar's github stats](https://github-readme-stats.vercel.app/api?username=im-gnar&show_icons=true&theme=dracula) | ![Gnar's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=im-gnar&layout=compact&theme=dracula) |
 | --- | --- |
 </div>
 
