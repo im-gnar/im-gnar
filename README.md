@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&section=header&text=Hi:\)%20I'm%20Gnar%20🌷&fontAlignY=45&desc=%20Backend%20engineer%20who%20loves%20technology%20sharing%20and%20continuous%20growth&descSize=25&descAlignY=75&fontSize=60&animation=twinkling)
 
 
+<a href="https://github.com/im-gnar/gitanimals">
+  <img src="https://render.gitanimals.org/lines/im-gnar?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h2 align="center"> 🔥 Tech Stack 🔥</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp;
