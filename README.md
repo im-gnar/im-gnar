@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/im-gnar/gitanimals">
-  <img src="https://render.gitanimals.org/lines/im-gnar?pet-id=1" width="1000" height="100"/>
+  <img src="https://render.gitanimals.org/lines/im-gnar?pet-id=2" width="1000" height="100"/>
 </a>
 
 <h2 align="center"> 🔥 Tech Stack 🔥</h2>
